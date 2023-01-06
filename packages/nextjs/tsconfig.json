@@ -1,0 +1,77 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "jsx": "preserve",
+    "lib": [
+      "dom",
+      "es2017",
+      "esnext"
+    ],
+    "moduleResolution": "node",
+    "allowJs": true,
+    "noEmit": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "alwaysStrict": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "noFallthroughCasesInSwitch": true,
+    "strict": false,
+    "noImplicitAny": false,
+    "resolveJsonModule": true,
+    "forceConsistentCasingInFileNames": false,
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": [
+        "./components/*"
+      ],
+      "@hooks/*": [
+        "./hooks/*"
+      ],
+      "@interfaces/*": [
+        "./interfaces/*"
+      ],
+      "@libraries/*": [
+        "./libraries/*"
+      ],
+      "@locales/*": [
+        "./locales/*"
+      ],
+      "@pages/*": [
+        "./pages/*"
+      ],
+      "@utils/*": [
+        "./utils/*"
+      ],
+      "@views/*": [
+        "./views/*"
+      ],
+      "@containers/*": [
+        "./containers/*"
+      ],
+      "@contexts/*": [
+        "./contexts/*"
+      ]
+    },
+    "incremental": true
+  },
+  "exclude": [
+    "**/*.spec.ts",
+    "**/*.spec.tsx",
+    "**/*.test.ts",
+    "**/*.test.tsx",
+    ".next",
+    "out",
+    "next.config.js"
+  ],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+  ]
+}

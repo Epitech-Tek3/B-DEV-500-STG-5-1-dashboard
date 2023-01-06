@@ -1,0 +1,6 @@
+FROM node
+WORKDIR /app
+COPY . .
+RUN npm run deploy-docker-ui
+EXPOSE 8080
+CMD ["npm", "run", "dev:web"]

@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "yzhang.markdown-all-in-one",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "jpoissonnier.vscode-styled-components",
+    "mikestead.dotenv",
+    "coenraads.bracket-pair-colorizer",
+    "editorconfig.editorconfig",
+    "dsznajder.es7-react-js-snippets",
+    "mgmcdermott.vscode-language-babel",
+    "naumovs.color-highlight",
+    "christian-kohler.path-intellisense",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "shan.code-settings-sync",
+    "wallabyjs.quokka-vscode"
+  ]
+}

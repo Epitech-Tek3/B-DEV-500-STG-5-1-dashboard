@@ -1,0 +1,37 @@
+.failed-cls-1 {
+  fill: #3b3744;
+}
+.failed-cls-2 {
+  fill: #f0f0f0;
+}
+.failed-cls-3 {
+  fill: #fff;
+}
+.failed-cls-10,
+.failed-cls-4 {
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2px;
+}
+.failed-cls-4 {
+  stroke: #1b3c87;
+}
+.failed-cls-5 {
+  fill: #eaf0ff;
+}
+.failed-cls-6 {
+  fill: #d8dfff;
+}
+.failed-cls-7 {
+  fill: #b2c3fb;
+}
+.failed-cls-8 {
+  fill: #46dbc9;
+}
+.failed-cls-9 {
+  fill: #ecc953;
+}
+.failed-cls-10 {
+  stroke: #b6c6fc;
+}

@@ -1,0 +1,52 @@
+.particular-1 {
+  fill: #fff;
+  stroke-width: 5px;
+}
+.particular-1,
+.particular-2,
+.particular-4 {
+  stroke: #6562cf;
+}
+.particular-1,
+.particular-2,
+.particular-4,
+.particular-8 {
+  stroke-miterlimit: 10;
+}
+.particular-2,
+.particular-4,
+.particular-8 {
+  fill: none;
+}
+.particular-2,
+.particular-4 {
+  stroke-linecap: round;
+}
+.particular-2 {
+  stroke-width: 6px;
+}
+.particular-3 {
+  fill: #dbdaff;
+}
+.particular-4 {
+  stroke-width: 4px;
+}
+.particular-5 {
+  fill: #3c4564;
+}
+.particular-6 {
+  fill: #424d76;
+}
+.particular-7 {
+  fill: #e49647;
+}
+.particular-8 {
+  stroke: #cb884b;
+  stroke-width: 3px;
+}
+.particular-9 {
+  fill: #d48845;
+}
+.particular-10 {
+  fill: #ffb000;
+}
